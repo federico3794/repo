@@ -1,0 +1,14 @@
+Package: oci.albatocio.com
+Name: Open SSH Bibbo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Ce la faremo
+Maintainer: Gabibbo <gabi@gmail.com>
+Author: Ezio <eziogreggio@gmail.com>
+Section: Belandi
+Depends: 
+Filename: debs/openssh_7.9p1-1_iphoneos-arm.deb
+Size: 597000
+MD5sum: e9d293b91de03261c72af8bdf07af67f
+SHA1: BD36A8FC7826000775ED0C39A4F1AEA307A4199E
+SHA256: 22392A13F1241B685A9FD4E29BCB457680BD7B7B4A9B4BFE15D8890EFD955AE4
